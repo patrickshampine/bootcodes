@@ -36,4 +36,4 @@ class bootCodes {
 
 }
 
-new bootCodes()
+new bootCodes();
