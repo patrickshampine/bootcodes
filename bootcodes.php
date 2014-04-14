@@ -2,7 +2,7 @@
 /*
 Plugin Name: Bootcodes
 Plugin URI: https://github.com/patrickshampine/bootcodes
-Description: The plugin adds a shortcodes for Bootstrap 3 grid elemets.
+Description: The plugin adds a shortcodes for Bootstrap 3 grid elements.
 Version: 0.1
 Author: Patrick Shampine
 Author URI: http://patrickshampine.com

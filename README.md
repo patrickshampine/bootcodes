@@ -1,7 +1,7 @@
 bootcodes
 =======
 
-A quick and dirty plugin that lets you use bootstrap 3 shortcodes in the_content.
+A quick and dirty plugin that lets you use bootstrap 3 shortcodes in the_content. Not that I agree with using layout markup in a wysiwyg.
 
 Use Bootstrap rows with `<div class="row"></div>` with `[row][/row]`.
 
